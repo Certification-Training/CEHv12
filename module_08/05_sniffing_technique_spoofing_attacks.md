@@ -1,4 +1,4 @@
-# Section 05: ARP poisoning
+# Section 05: Spoofing Attacks
 
 ## Spoofing
 Media Access Control (MAC) spoofing
